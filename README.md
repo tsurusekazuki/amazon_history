@@ -1,0 +1,2 @@
+# amazon_history
+アマゾンの注文履歴をSeleniumを使って、自動でCSVに書き出す
